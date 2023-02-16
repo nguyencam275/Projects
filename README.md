@@ -1,4 +1,4 @@
-# Projects
+# Projects Descriptions
 
 ## Data Exploration Project
 This project was done using R. The project involves analyzing a large data set and creating visualizations.
