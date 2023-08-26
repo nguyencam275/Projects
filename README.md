@@ -1,10 +1,10 @@
 # Projects Descriptions
 
 ## Data Exploration Project - Student Adaptivity to Online Learning
-This project was done using R. The project involves analyzing a large data set and creating visualizations to draw insight about student adaptivity to online learning.
+The project involves analyzing a large data set and creating visualizations to draw insight about student adaptivity to online learning. This project was done using R. 
 
 ## Data Translation Assignment
-This project was done using R. The project involves analyzing a large data set and creating different types of visualizations.
+The project involves analyzing a large data set and creating different types of visualizations. This project was done using R. 
 
 ## Nguyen_Project1
 This project involves using SQL queries to analyze data and draw business insights
