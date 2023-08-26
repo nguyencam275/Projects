@@ -28,4 +28,4 @@ This assignment involves data cleaning and organization in R
 This project involves analyzing AirBnB data as a Host to offer optimal and competitive pricing. Utilized JMP and Regression analyses.
 
 ## AirBnB Marketing Analytics
-This project involves analyzing AirBnB data as a Host to find the most important factors for receiving good ratings. Utilized machine learning, JMP, and R.
+This project involves analyzing AirBnB data as a Host to find the most important factors for receiving good ratings. Utilized machine learning, text mining, JMP, and R.
