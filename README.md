@@ -23,3 +23,6 @@ This is a visualization critique of a graph to demonstrate knowledge of visualiz
 
 ## Week 3 Homework
 This assignment involves data cleaning and organization in R
+
+## AirBnB Price Analytics
+This project involves analyzing AirBnB data as a Host to offer optimal and competitive pricing. Utilized JMP and Regression analyses.
