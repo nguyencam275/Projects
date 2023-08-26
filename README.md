@@ -4,7 +4,7 @@
 The project involves analyzing a large data set and creating visualizations to draw insight about student adaptivity to online learning. This project was done using R. 
 
 ## Data Translation Assignment
-The project involves analyzing a large data set and creating different types of visualizations. This project was done using R. 
+The project involves analyzing a large data set and utilizing different types of visualizations to communicate a story. This project was done using R. 
 
 ## Nguyen_Project1
 This project involves using SQL queries to analyze data and draw business insights
